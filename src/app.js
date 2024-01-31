@@ -11,8 +11,8 @@ import { ratingMenu } from 'instantsearch.js/es/widgets';
 import { hitsPerPage } from 'instantsearch.js/es/widgets';
 
 const searchClient = algoliasearch(
-  'PGOH378MIC',
-  '8893a305a2af28cc4e3e88883fdea95e'
+  'TBD',
+  'TBD'
 );
 
 const search = instantsearch({
